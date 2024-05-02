@@ -1,13 +1,13 @@
 ### <div align="center">Desenvolvedor desde os 14 anos, apaixonado por desenvolvimento Backend, DevOps e infraestrutura</div>  
   
 
-- 🔭 Trabalhando em [VEXSoft](https://vexsoft.com)  
+- 🔭 Trabalhando em [Grupo Construserv](https://www.grupoconstruserv.eng.br) 
   
 
-- 🌱 Estudando novas tecnologias Cloud e Backend
+- 🌱 Estudando novas tecnologias para Cloud e Backend
   
 
-- ❓ Tenho 20 anos, morando atualmente em Maringá, PR - Brasil  
+- ❓ Tenho 21 anos, morando atualmente em Maringá, PR - Brasil  
   
 
 <br/>  
