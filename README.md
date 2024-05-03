@@ -1,7 +1,7 @@
 ### <div align="center">Desenvolvedor desde os 14 anos, apaixonado por desenvolvimento Backend, DevOps e infraestrutura</div>  
   
 
-- 🔭 Trabalhando em [Grupo Construserv](https://www.grupoconstruserv.eng.br) 
+- 🔭 Em busca de novos trabalhos
   
 
 - 🌱 Estudando novas tecnologias para Cloud e Backend
