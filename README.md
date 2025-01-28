@@ -7,7 +7,7 @@
 - 🌱 Estudando novas tecnologias para Cloud e Backend
   
 
-- ❓ Tenho 21 anos, morando atualmente em Maringá, PR - Brasil  
+- ❓ Tenho 22 anos, morando atualmente em Maringá, PR - Brasil  
   
 
 <br/>  
